@@ -1,1 +1,7 @@
+/* global*/
+@import url('package:google_fonts/google_fonts.dart');
 
+.grid-2{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
